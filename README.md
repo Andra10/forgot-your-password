@@ -1,2 +1,2 @@
-# forgot-your-password
-forgot your password is an evil game that makes you struggling to remember your passcord
+# Password Guesser 
+Implementing React.js in a tricky game, a password guesser
