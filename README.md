@@ -1,6 +1,6 @@
 # Password Guesser 
 
-##### Password Guesser is a tricky password module that makes you struggling signing up 
+## Password Guesser is a tricky password module that makes you struggling signing up 
 
 ##### For those who like risks, hard mode is raccomended 
 
@@ -45,7 +45,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
 
 ## License
