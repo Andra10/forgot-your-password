@@ -17,7 +17,7 @@ https://forgot-your-password.vercel.app/
 
 ## Screenshots
 
-<img src="/public/screenshot.png" width=300> 
+<img src="/public/forget-your-password.png" width=300> 
 
 
 ## Run Locally
